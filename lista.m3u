@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF: -1 Love Nature
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
 #EXTINF: -1, ROCK TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
 
