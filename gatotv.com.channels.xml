@@ -243,7 +243,7 @@
     <channel update="i" site="gatotv.com" site_id="fox_channel_colombia" xmltv_id="Canal Fox Channel (Colombia)">Canal Fox Channel (Colombia)</channel>
     <channel update="i" site="gatotv.com" site_id="fox_deportes" xmltv_id="Canal Fox Deportes">Canal Fox Deportes</channel>
     <channel update="i" site="gatotv.com" site_id="fox_life" xmltv_id="Canal Fox Life">Canal Fox Life</channel>
-    <channel update="i" site="gatotv.com" site_id="fox_life_espana" xmltv_id="Canal Fox Life (España)">Canal Fox Life (España)</channel>
+    <channel update="i" site="gatotv.com" site_id="fox_life_mexico" xmltv_id="Canal Fox Life (México)">Canal Fox Life (México)</channel>
     <channel update="i" site="gatotv.com" site_id="fox_life_panregional" xmltv_id="Canal Fox Life (Panregional)">Canal Fox Life (Panregional)</channel>
     <channel update="i" site="gatotv.com" site_id="fox_news" xmltv_id="Canal Fox News">Canal Fox News</channel>
     <channel update="i" site="gatotv.com" site_id="fox_premium_action_este" xmltv_id="Canal Fox Premium Action (Este)">Canal Fox Premium Action (Este)</channel>
@@ -266,8 +266,8 @@
     <channel update="i" site="gatotv.com" site_id="fox_sports_3_cono_norte" xmltv_id="Canal Fox Sports 3 (Cono Norte)">Canal Fox Sports 3 (Cono Norte)</channel>
     <channel update="i" site="gatotv.com" site_id="fox_sports_3_cono_sur" xmltv_id="Canal Fox Sports 3 (Cono Sur)">Canal Fox Sports 3 (Cono Sur)</channel>
     <channel update="i" site="gatotv.com" site_id="fox_sports_premium_argentina" xmltv_id="Canal Fox Sports Premium (Argentina)">Canal Fox Sports Premium (Argentina)</channel>
-    <channel update="i" site="gatotv.com" site_id="frecuencia_latina" xmltv_id="Canal Frecuencia Latina">Canal Frecuencia Latina</channel>
-    <channel update="i" site="gatotv.com" site_id="fx_centro" xmltv_id="Canal FX (Centro)">Canal FX (Centro)</channel>
+    <channel update="i" site="gatotv.com" site_id="fxm_mexico" xmltv_id="Canal FXM (México)">Canal FXM (México)</channel>
+    <channel update="i" site="gatotv.com" site_id="fox_mexico" xmltv_id="Canal Fox (México)">Canal Fox (México)</channel>
     <channel update="i" site="gatotv.com" site_id="fx_chile" xmltv_id="Canal FX (Chile)">Canal FX (Chile)</channel>
     <channel update="i" site="gatotv.com" site_id="fx_mexico" xmltv_id="Canal FX (México)">Canal FX (México)</channel>
     <channel update="i" site="gatotv.com" site_id="fx_panregional" xmltv_id="Canal FX (Panregional)">Canal FX (Panregional)</channel>
@@ -341,6 +341,7 @@
     <channel update="i" site="gatotv.com" site_id="multimedios_plus" xmltv_id="Canal Multimedios Plus">Canal Multimedios Plus</channel>
     <channel update="i" site="gatotv.com" site_id="multipremier" xmltv_id="Canal Multipremier">Canal Multipremier</channel>
     <channel update="i" site="gatotv.com" site_id="nat_geo_kids_pacifico" xmltv_id="Canal Nat Geo Kids (Pacifico)">Canal Nat Geo Kids (Pacifico)</channel>
+	<channel update="i" site="gatotv.com" site_id="nat_geo_kids_mexico" xmltv_id="Canal Nat Geo Kids">Canal Nat Geo Kids</channel>
     <channel update="i" site="gatotv.com" site_id="nat_geo_kids_panregional" xmltv_id="Canal Nat Geo Kids (Panregional)">Canal Nat Geo Kids (Panregional)</channel>
     <channel update="i" site="gatotv.com" site_id="nat_geo_wild" xmltv_id="Canal Nat Geo Wild">Canal Nat Geo Wild</channel>
     <channel update="i" site="gatotv.com" site_id="national_geographic_centro" xmltv_id="Canal National Geographic (Centro)">Canal National Geographic (Centro)</channel>
@@ -392,7 +393,7 @@
     <channel update="i" site="gatotv.com" site_id="sony_andes" xmltv_id="Canal Sony (Andes)">Canal Sony (Andes)</channel>
     <channel update="i" site="gatotv.com" site_id="sony_chile" xmltv_id="Canal Sony (Chile)">Canal Sony (Chile)</channel>
     <channel update="i" site="gatotv.com" site_id="sony_centro" xmltv_id="Canal Sony Centro">Canal Sony Centro</channel>
-    <channel update="i" site="gatotv.com" site_id="sony" xmltv_id="Canal Sony Entertainment Television (Latinoamérica)">Canal Sony Entertainment Television (Latinoamérica)</channel>
+    <channel update="i" site="gatotv.com" site_id="sony_mexico" xmltv_id="Canal Sony (México)">Canal Sony (México)</channel>
     <channel update="i" site="gatotv.com" site_id="sorpresa" xmltv_id="Canal Sorpresa">Canal Sorpresa</channel>
     <channel update="i" site="gatotv.com" site_id="space_mexico" xmltv_id="Canal Space (México)">Canal Space (México)</channel>
     <channel update="i" site="gatotv.com" site_id="space_panregional" xmltv_id="Canal Space (Panregional)">Canal Space (Panregional)</channel>
@@ -463,7 +464,7 @@
     <channel update="i" site="gatotv.com" site_id="tvn_chile" xmltv_id="Canal TVN (Chile)">Canal TVN (Chile)</channel>
     <channel update="i" site="gatotv.com" site_id="tvunam" xmltv_id="Canal TVUNAM">Canal TVUNAM</channel>
     <channel update="i" site="gatotv.com" site_id="tyc_sports" xmltv_id="Canal TyC Sports">Canal TyC Sports</channel>
-    <channel update="i" site="gatotv.com" site_id="ultra_cine" xmltv_id="Canal Ultra Cine">Canal Ultra Cine</channel>
+    <channel update="i" site="gatotv.com" site_id="cinecanal_mexico" xmltv_id="Canal Cinecanal (México)">Canal Cinecanal (México)</channel>
     <channel update="i" site="gatotv.com" site_id="ultra_docu" xmltv_id="Canal Ultra Docu">Canal Ultra Docu</channel>
     <channel update="i" site="gatotv.com" site_id="ultra_fiesta" xmltv_id="Canal Ultra Fiesta">Canal Ultra Fiesta</channel>
     <channel update="i" site="gatotv.com" site_id="ultra_film" xmltv_id="Canal Ultra Film">Canal Ultra Film</channel>
